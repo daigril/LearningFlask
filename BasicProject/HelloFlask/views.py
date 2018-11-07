@@ -12,7 +12,7 @@ def home():
         "index.html",
         title="Hello Flask",
         message="Hello Flask!",
-        content="on"+formatted_now
+        content="on"+formatted_nowS
         )
 
     #html_content="<html><head><title>Hello Flask</title></head><body>"
